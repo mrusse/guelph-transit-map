@@ -26,27 +26,12 @@ app.use(express.static('public'));
 
 async function UpdateArrays()
 {
-    let response = await fetch('http://data.open.guelph.ca/datafiles/guelph-transit/guelph_transit_gtfs.zip');
-    if (response.ok)
-    {
-        let responseData = await response.arrayBuffer();
-        let unzippedFileBuffer = await unzipper.Open.buffer(Buffer.from(responseData));
-        
-        let routesFileBuffer = await unzippedFileBuffer.files.find(x => x.path === 'routes.txt').buffer();
-        routes = parse(routesFileBuffer.toString(), { columns: true });
-
-        let tripsFileBuffer = await unzippedFileBuffer.files.find(x => x.path === 'trips.txt').buffer();
-        trips = parse(tripsFileBuffer.toString(), { columns: true });
-                
-        let shapesFileBuffer = await unzippedFileBuffer.files.find(x => x.path === 'shapes.txt').buffer();
-        shapes = parse(shapesFileBuffer.toString(), { columns: true });
-
-        let stopsFileBuffer = await unzippedFileBuffer.files.find(x => x.path === 'stops.txt').buffer();
-        stops = parse(stopsFileBuffer.toString(), { columns: true });
-
-        let timesFileBuffer = await unzippedFileBuffer.files.find(x => x.path === 'stop_times.txt').buffer();
-        stopTimes = parse(timesFileBuffer.toString(), { columns: true });
-    }
+    let fs = require("fs"); 
+    routes = parse(fs.readFileSync("backup_data/routes.txt"),{columns: true }); 
+    trips = parse(fs.readFileSync("backup_data/trips.txt"),{columns: true }); 
+    shapes = parse(fs.readFileSync("backup_data/shapes.txt"),{columns: true }); 
+    stops = parse(fs.readFileSync("backup_data/stops.txt"),{columns: true }); 
+    stopTimes = parse(fs.readFileSync("backup_data/stop_times.txt"),{columns: true }); 
 }
 
 function ConvertUnixTimestampToString(timestampSeconds)

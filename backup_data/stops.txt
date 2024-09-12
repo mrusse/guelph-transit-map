@@ -1,0 +1,592 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+103,103,Gordon at Kortright southbound,Gordon Street,43.522362,-80.213442,,,,,,0
+104,104,Gordon at Harts southbound,Gordon Street,43.519528,-80.207687,,,,,,0
+105,105,Gordon at Landsdown southbound,Gordon Street,43.518121,-80.205662,,,,,,0
+106,106,Gordon at Edinburgh southbound,Gordon Street,43.516559,-80.203531,,,,,,0
+107,107,Edinburgh at Carrington westbound,Edinburgh Road South,43.513616,-80.206704,,,,,,0
+108,108,Edinburgh at Rickson westbound,Edinburgh Road South,43.511586,-80.209428,0,,,,,0
+109,109,Edinburgh at Ginger northbound,Edinburgh Road South,43.511076,-80.213566,,,,,,0
+110,110,Edinburgh at Rodgers northbound,Edinburgh Road South,43.512602,-80.218619,,,,,,0
+111,111,Edinburgh at Koch northbound,Edinburgh Road South,43.516094,-80.225959,,,,,,0
+112,112,Edinburgh at Laurelwood northbound,Edinburgh Road South,43.517444,-80.230402,,,,,,0
+114,114,Stone at Scottsdale westbound,Stone Road West,43.515895,-80.239294,,,,,,0
+115,115,176 Janefield northbound,Janefield Avenue,43.517473,-80.244803,,,,,,0
+116,116,Janefield at Mason northbound,Janefield Avenue,43.51892,-80.246828,0,,,,,0
+117,117,College at Vanier eastbound,College Avenue West,43.522099,-80.246057,,,,,,0
+118,118,College at Lynnwood eastbound,College Avenue West,43.524333,-80.243006,,,,,,0
+119,119,College at Smith eastbound,College Avenue West,43.529659,-80.235779,,,,,,0
+120,120,College at MacDonald eastbound,College Avenue East,43.533559,-80.230508,,,,,,0
+121,121,East Ring at Dundas southbound,East Ring Road,43.534327,-80.223817,,,,,,0
+122,122,East Ring Road at Arboretum Road southbound,,43.533251,-80.22234,,,,,,0
+154,154,College at Caledonia westbound,College Avenue West,43.529779,-80.23581,,,,,,0
+155,155,College at Edinburgh westbound,College Avenue West,43.525008,-80.242347,,,,,,0
+156,156,College at Centennial westbound,College Avenue West,43.521522,-80.24709,,,,,,0
+157,157,165 Janefield southbound,Janefield Avenue,43.517936,-80.245638,,,,,,0
+158,158,Janefield at Scottsdale eastbound,Janefield Avenue,43.516773,-80.241115,,,,,,0
+160,160,Stone at Stone Road Mall eastbound,Stone Road West,43.517608,-80.236658,,,,,,0
+162,162,Edinburgh at Ironwood southbound,Edinburgh Road South,43.516369,-80.228883,,,,,,0
+163,163,Edinburgh at Crowe southbound,Edinburgh Road South,43.515565,-80.223325,,,,,,0
+164,164,Edinburgh at Rodgers southbound,Edinburgh Road South,43.512617,-80.218908,,,,,,0
+165,165,Edinburgh at Southcreek southbound,Edinburgh Road South,43.51118,-80.214575,,,,,,0
+166,166,Edinburgh at Rickson eastbound,Edinburgh Road South,43.5115,-80.20935,,,,,,0
+167,167,Edinburgh at Carrington eastbound,Edinburgh Road South,43.513537,-80.206628,,,,,,0
+168,168,Gordon at Edinburgh northbound,Gordon Street,43.516617,-80.203247,,,,,,0
+169,169,Gordon at Landsdown northbound,Gordon Street,43.518469,-80.20579,,,,,,0
+170,170,Gordon at Harts northbound,Gordon Street,43.519631,-80.207474,,,,,,0
+171,171,1030 Gordon northbound,1030 Gordon Street,43.520878,-80.209999,,,,,,0
+173,173,Gordon at Hands northbound,Gordon Street,43.524265,-80.216914,,,,,,0
+174,174,Gordon at Monticello northbound,Gordon Street,43.525791,-80.221775,0,,,,,0
+203,203,Gordon at James southbound,Gordon Street,43.537291,-80.239938,,,,,,0
+204,204,Gordon at Dean southbound,Gordon Street,43.534074,-80.235461,,,,,,0
+207,207,Stone at Edinburgh westbound,Stone Road West,43.520394,-80.233332,0,,,,,0
+210,210,Fife at Wellington westbound,Fife Road,43.517835,-80.270269,,,,,,0
+211,211,Fife at Gateway westbound,Fife Road,43.515645,-80.273225,,,,,,0
+212,212,Fife at Deerfield westbound,Fife Road,43.513901,-80.275585,,,,,,0
+213,213,Elmira at West Acres northbound,Elmira Road South,43.516387,-80.278779,,,,,,0
+214,214,Elmira at Freshmeadow northbound,Elmira Road South,43.518933,-80.282056,,,,,,0
+215,215,Elmira at Stephanie northbound,Elmira Road South,43.521053,-80.287271,,,,,,0
+216,216,Elmira at Paisley northbound,Elmira Road South,43.52205,-80.289686,0,,,,,0
+217,217,Elmira at West End Community Centre northbound,Elmira Road South,43.523051,-80.292219,0,,,,,0
+218,218,Willow at Flaherty eastbound,Willow Road,43.527366,-80.296851,,,,,,0
+219,219,Imperial at Willow northbound,Imperial Road North,43.529034,-80.292485,,,,,,0
+220,220,Imperial at Dunhill northbound,Imperial Road North,43.531564,-80.294132,,,,,,0
+221,221,Imperial at Westwood northbound,Imperial Road North,43.53511,-80.294715,,,,,,0
+223,223,Royal at ARC Industries northbound,Royal Road,43.540183,-80.294327,,,,,,0
+224,224,Royal at Massey northbound,Royal Road,43.542772,-80.297936,,,,,,0
+225,225,Massey at Imperial westbound,Massey Road,43.541183,-80.301386,,,,,,0
+226,226,Imperial at Woodlawn northbound,Imperial Road North,43.543594,-80.305703,,,,,,0
+227,227,Woodlawn at Royal eastbound,Woodlawn Road West,43.545949,-80.303478,,,,,,0
+228,228,Woodlawn at Regal eastbound,Woodlawn Road West,43.548771,-80.299613,,,,,,0
+229,229,Woodlawn at Silvercreek eastbound,Woodlawn Road West,43.551744,-80.295572,,,,,,0
+230,230,Woodlawn at Dawson eastbound,Woodlawn Road West,43.556084,-80.289687,0,,,,,0
+231,231,Woodlawn at Edinburgh eastbound,Woodlawn Road West,43.55861,-80.286192,,,,,,0
+232,232,Woodlawn at Nicklin eastbound,Woodlawn Road West,43.56041,-80.283611,,,,,,0
+233,233,Woodlawn at Woolwich eastbound,Woodlawn Road West,43.56462,-80.277784,,,,,,0
+234,234,Woolwich at Marilyn southbound,Woolwich Street,43.562109,-80.273501,,,,,,0
+235,235,Woolwich at Evergreen Seniors Centre southbound,Woolwich Street,43.560044,-80.270661,,,,,,0
+236,236,Woolwich at Mac southbound,Woolwich Street,43.556831,-80.266224,,,,,,0
+237,237,Woolwich at Tiffany southbound,Woolwich Street,43.552525,-80.260289,,,,,,0
+238,238,Woolwich at London southbound,Woolwich Street,43.549805,-80.256592,,,,,,0
+254,254,Woolwich at London northbound,Woolwich Street,43.550079,-80.256664,,,,,,0
+255,255,Woolwich at Kerr northbound,Woolwich Street,43.551843,-80.259124,,,,,,0
+256,256,Woolwich at Powell northbound,Woolwich Street,43.553098,-80.260831,,,,,,0
+257,257,Woolwich at Earl northbound,Woolwich Street,43.555928,-80.264751,,,,,,0
+258,258,Woolwich at Speedvale northbound,Woolwich Street,43.55807,-80.267637,,,,,,0
+259,259,Woolwich at Evergreen Seniors Centre northbound,Woolwich Street,43.560148,-80.270523,,,,,,0
+260,260,Woolwich at Marilyn northbound,Woolwich Street,43.561905,-80.272942,,,,,,0
+262,262,Woodlawn at Nicklin westbound,Woodlawn Road West,43.561075,-80.283015,,,,,,0
+263,263,Woodlawn at Edinburgh westbound,Woodlawn Road West,43.558503,-80.286608,,,,,,0
+264,264,Woodlawn at Dawson westbound,Woodlawn Road West,43.556823,-80.288933,,,,,,0
+265,265,Woodlawn at Arrow westbound,Woodlawn Road West,43.554467,-80.292162,,,,,,0
+266,266,Woodlawn at Silvercreek westbound,Woodlawn Road West,43.551694,-80.295963,,,,,,0
+267,267,Woodlawn at Regal westbound,Woodlawn Road West,43.548725,-80.300025,,,,,,0
+268,268,Woodlawn at Royal westbound,Woodlawn Road West,43.546384,-80.303232,,,,,,0
+269,269,Imperial at Woodlawn southbound,Imperial Road North,43.543553,-80.305874,,,,,,0
+270,270,Massey at Imperial eastbound,Massey Road,43.541132,-80.301177,,,,,,0
+271,271,Royal at Massey southbound,Royal Road,43.542697,-80.298096,,,,,,0
+272,272,Royal at ARC Industries southbound,Royal Road,43.54011,-80.294494,,,,,,0
+273,273,Imperial at Speedvale southbound,Imperial Road North,43.53663,-80.296316,,,,,,0
+274,274,Imperial at Thornhill southbound,Imperial Road North,43.534179,-80.294708,,,,,,0
+275,275,Imperial at Kipling southbound,Imperial Road North,43.530806,-80.294185,,,,,,0
+276,276,Imperial at Willow southbound,Imperial Road North,43.528769,-80.292303,,,,,,0
+277,277,Willow at Flaherty westbound,Willow Road,43.527616,-80.296497,0,,,,,0
+278,278,19 Elmira southbound,Elmira Road South,43.522933,-80.292325,0,,,,,0
+279,279,Elmira at Paisley southbound,Elmira Road South,43.521901,-80.289829,0,,,,,0
+280,280,Elmira at Freshmeadow southbound,Elmira Road South,43.519705,-80.284338,,,,,,0
+281,281,Elmira at Rochelle southbound,Elmira Road South,43.517806,-80.280426,,,,,,0
+282,282,Fife at Deerfield eastbound,Fife Road,43.513927,-80.275284,,,,,,0
+283,283,Fife at Gateway eastbound,Fife Road & GATEWAY DR,43.51545,-80.273229,,,,,,0
+284,284,Fife at Wellington eastbound,26 Fife Road,43.517795,-80.270059,,,,,,0
+292,292,Gordon at McGilvray northbound,Gordon Street,43.530955,-80.230823,,,,,,0
+294,294,Gordon at Dormie northbound,Gordon Street,43.536943,-80.239233,,,,,,0
+295,295,Gordon at Water northbound,Gordon Street,43.538065,-80.240806,,,,,,0
+297,297,Wyndham at Fountain northbound,Wyndham Street South,43.543374,-80.245301,,,,,,0
+302,302,Woolwich at Cardigan northbound,Woolwich Street,43.54823,-80.251777,,,,,,0
+305,305,Suffolk at Glasgow westbound,Suffolk Street West,43.545538,-80.258478,0,,,,,0
+306,306,Yorkshire at London northbound,Yorkshire Street North,43.546384,-80.261747,,,,,,0
+307,307,Westmount at Summit northbound,Westmount Road,43.548128,-80.266951,,,,,,0
+308,308,Westmount at Division northbound,Westmount Road,43.550094,-80.269665,,,,,,0
+310,310,Westmount at Speedvale northbound,Westmount Road,43.553407,-80.27425,,,,,,0
+315,315,21 Woodlawn eastbound,21 Woodlawn Road East,43.566309,-80.275597,0,,,,,0
+316,316,Woodlawn at Speed River eastbound,Woodlawn Road East,43.569351,-80.271398,,,,,,0
+317,317,Woodlawn at Fairway eastbound,Woodlawn Road East,43.571985,-80.267709,,,,,,0
+318,318,Woodlawn at Golfview eastbound,Woodlawn Road East,43.574392,-80.264349,,,,,,0
+319,319,Inverness at Glenbrook northbound,Inverness Drive,43.577029,-80.263722,,,,,,0
+320,320,Inverness at Wilton northbound,Inverness Drive,43.579193,-80.266734,,,,,,0
+321,321,Victoria at Norma southbound,Victoria Road North,43.580844,-80.264329,,,,,,0
+322,322,Victoria at Woodlawn southbound,Victoria Road North,43.577902,-80.260293,,,,,,0
+323,323,Victoria at Delta southbound,Victoria Road North,43.574159,-80.255077,,,,,,0
+324,324,Victoria at Speedvale southbound,Victoria Road North,43.57071,-80.250333,,,,,,0
+325,325,Victoria at Eramosa southbound,Victoria Road North,43.569197,-80.24827,,,,,,0
+326,326,Victoria at Greenview southbound,Victoria Road North,43.566699,-80.244721,,,,,,0
+327,327,Eastview at Glenburnie eastbound,Eastview Road,43.565338,-80.241303,,,,,,0
+328,328,Eastview at Mountford eastbound,Eastview Road,43.56739,-80.238495,,,,,,0
+330,330,Eastview at Summit Ridge eastbound,Eastview Road,43.572643,-80.231323,,,,,,0
+332,332,Watson at Fleming southbound,Watson Parkway North,43.570547,-80.213893,,,,,,0
+333,333,Watson at Starwood southbound,Watson Parkway North,43.566581,-80.211749,,,,,,0
+335,335,York at Yorkhaven westbound,York Road,43.558471,-80.21502,,,,,,0
+337,337,York at Beaumont westbound,York Road,43.554924,-80.219884,,,,,,0
+338,338,Victoria at York southbound,Victoria Road South,43.551612,-80.223545,,,,,,0
+339,339,Stone at Victoria westbound,Stone Road East,43.53918,-80.208169,,,,,,0
+340,340,Stone at Oakdale westbound,Stone Road East,43.533148,-80.216165,,,,,,0
+352,352,Gordon at Wellington southbound,Gordon Street,43.540845,-80.245334,,,,,,0
+356,356,Gordon at College southbound,Gordon Street,43.531515,-80.231847,,,,,,0
+358,358,Stone at Oakdale eastbound,Stone Road East,43.533112,-80.215957,,,,,,0
+359,359,Stone at Victoria eastbound,Stone Road East,43.538299,-80.208982,,,,,,0
+360,360,York at Victoria eastbound,ARTHUR STREET SOUTH,43.55224,-80.22332,,,,,,0
+361,361,York at Beaumont eastbound,York Road,43.554548,-80.220176,,,,,,0
+363,363,785 York eastbound,785 York Road,43.558741,-80.21437,,,,,,0
+365,365,Watson at Starwood northbound,Watson Parkway North,43.566566,-80.21151,0,,,,,0
+366,366,Watson at Fleming northbound,Watson Parkway North,43.570315,-80.213286,,,,,,0
+367,367,Watson at Grange northbound,Watson Parkway North,43.574104,-80.218562,,,,,,0
+368,368,Watson at Eastview northbound,Watson Parkway North,43.57761,-80.223441,0,,,,,0
+369,369,Eastview at Summit Ridge westbound,Eastview Road,43.572703,-80.231437,,,,,,0
+370,370,Eastview at Starwood westbound,Eastview Road,43.569986,-80.235208,0,,,,,0
+371,371,Eastview at Mountford westbound,Eastview Road,43.567519,-80.238584,,,,,,0
+372,372,Eastview at Victoria westbound,Eastview Road,43.565208,-80.241743,,,,,,0
+374,374,Victoria at Eramosa northbound,Victoria Road North,43.569646,-80.248602,,,,,,0
+375,375,Victoria at Speedvale northbound,Victoria Road North,43.571979,-80.251797,,,,,,0
+377,377,Victoria at Woodlawn northbound,Victoria Road North,43.578139,-80.260243,,,,,,0
+378,378,Victoria at Norma northbound,Victoria Road North,43.580598,-80.263658,,,,,,0
+379,379,Inverness at Wilton southbound,Inverness Drive,43.579028,-80.266687,,,,,,0
+380,380,Inverness at Woodlawn southbound,Inverness Drive,43.576245,-80.262489,,,,,,0
+381,381,Woodlawn at Golfview westbound,Woodlawn Road East,43.573979,-80.265171,,,,,,0
+382,382,Woodlawn at Country Club westbound,Woodlawn Road East,43.571818,-80.268227,,,,,,0
+383,383,Woodlawn at Speed River westbound,Woodlawn Road East,43.568331,-80.273068,,,,,,0
+384,384,Woodlawn at Woolwich westbound,Woodlawn Road East,43.565977,-80.276332,,,,,,0
+386,386,Nicklin at Burns southbound,Nicklin Road,43.558397,-80.280158,,,,,,0
+387,387,Bailey at Freeman eastbound,86 Bailey Avenue,43.557298,-80.276244,,,,,,0
+388,388,Kathleen at Speedvale southbound,Kathleen Street,43.555872,-80.272986,,,,,,0
+389,389,Westmount at Kimberley southbound,Westmount Road,43.553252,-80.274226,,,,,,0
+390,390,Saint Joseph's Health Centre,Westmount Road,43.550465,-80.272062,,,,,,0
+391,391,Westmount at Division southbound,Westmount Road,43.550128,-80.269907,,,,,,0
+392,392,Westmount at Summit southbound,Westmount Road,43.54858,-80.26777,,,,,,0
+393,393,Westmount at London southbound,Westmount Road,43.545511,-80.263497,,,,,,0
+394,394,Yorkshire at Home southbound,Yorkshire Street North,43.545859,-80.2614,,,,,,0
+395,395,Suffolk at Glasgow eastbound,Suffolk Street West,43.545373,-80.258587,,,,,,0
+396,396,Suffolk at Dublin eastbound,Suffolk Street West,43.546341,-80.256684,,,,,,0
+397,397,Woolwich at Cardigan southbound,Woolwich Street,43.548027,-80.251684,,,,,,0
+401,401,Neeve at Ontario eastbound,Neeve Street,43.544156,-80.24095,,,,,,0
+402,402,Ontario at Manitoba eastbound,Ontario Street,43.544709,-80.237312,,,,,,0
+403,403,Ontario at Wood eastbound,Ontario Street,43.545206,-80.23469,0,,,,,0
+404,404,Ontario at York eastbound,Ontario Street,43.545561,-80.232785,,,,,,0
+405,405,York at Morris eastbound,York Road,43.546953,-80.230487,,,,,,0
+406,406,York at Brockville eastbound,DUKE STREET,43.549091,-80.227631,,,,,,0
+407,407,York at Audrey eastbound,York Road,43.550796,-80.225343,,,,,,0
+410,410,York at Cityview eastbound,York Road,43.556909,-80.216882,,,,,,0
+412,412,York at Watson eastbound,ALICE STREET,43.561531,-80.210539,,,,,,0
+413,413,987 York eastbound,987 York Road,43.563399,-80.208031,,,,,,0
+414,414,Watson at York southbound,Watson Road South,43.564504,-80.20545,,,,,,0
+415,415,Watson at Airpark southbound,Watson Road South,43.562432,-80.202535,,,,,,0
+416,416,Watson at Guelph Transit southbound,WELLINGTON STREET EAST,43.560555,-80.199928,,,,,,0
+417,417,Watson at Dunlop northbound,Watson Parkway South,43.557969,-80.198957,,,,,,0
+418,418,Watson at Cargill northbound,Watson Parkway South,43.559033,-80.202853,,,,,,0
+419,419,Watson at Taggart northbound,Watson Parkway South,43.56008,-80.205925,,,,,,0
+420,420,York at Watson westbound,York Road,43.561528,-80.210798,,,,,,0
+422,422,York at Cityview westbound,York Road,43.557036,-80.216997,,,,,,0
+424,424,York at Victoria westbound,FERGUSON STREET,43.551535,-80.224532,,,,,,0
+425,425,York at Brockville westbound,York Road,43.54903,-80.227889,,,,,,0
+426,426,York at Harris westbound,York Road,43.547537,-80.229905,,,,,,0
+427,427,Ontario at Huron westbound,Ontario Street,43.545621,-80.233046,,,,,,0
+428,428,Ontario at Manitoba westbound,Ontario Street,43.54483,-80.237181,,,,,,0
+429,429,Ontario at Neeve westbound,Ontario Street,43.544258,-80.240207,,,,,,0
+501,501,Gordon at Nottingham southbound,Gordon Street,43.541823,-80.24806,,,,,,0
+516,516,Summerfield at Amsterdam southbound,Summerfield Drive,43.517582,-80.190917,,,,,,0
+517,517,Summerfield at Cummings southbound,Summerfield Drive,43.51552,-80.18855,,,,,,0
+518,518,Summerfield at Bright eastbound,Summerfield Drive,43.516422,-80.184692,,,,,,0
+519,519,Summerfield at Victoria eastbound,Summerfield Drive,43.519813,-80.18006,,,,,,0
+520,520,Frederick at Waterford westbound,Frederick Drive,43.514916,-80.175535,,,,,,0
+521,521,Goodwin at Ray westbound,Goodwin Drive,43.511751,-80.177128,,,,,,0
+522,522,Goodwin at Wilkie westbound,Goodwin Drive,43.508801,-80.181028,,,,,,0
+523,523,Goodwin at Sinclair westbound,Goodwin Drive,43.505968,-80.184808,,,,,,0
+524,524,Goodwin at Darling westbound,Goodwin Drive,43.504278,-80.186637,,,,,,0
+525,525,Goodwin at Eugene westbound,Goodwin Drive,43.503155,-80.187971,,,,,,0
+526,526,Farley at Eugene northbound,Farley Drive,43.504064,-80.190238,,,,,,0
+528,528,Gordon at Lowes northbound,GORDON STREET,43.509006,-80.19558,,,,,,0
+529,529,Gordon at Heritage northbound,Gordon Street,43.511014,-80.196427,,,,,,0
+543,543,Gordon at Wellington northbound,Gordon Street,43.541025,-80.245226,,,,,,0
+544,544,Gordon at Nottingham northbound,Gordon Street,43.541829,-80.24756,,,,,,0
+547,547,Victoria at Katemore southbound,Victoria Road South,43.517582,-80.176815,,,,,,0
+602,602,Gordon at Harvard southbound,Gordon Street,43.525454,-80.221153,,,,,,0
+603,603,Harvard at Harrow westbound,Harvard Road,43.523995,-80.223326,,,,,,0
+604,604,Harvard at Princeton westbound,Harvard Road,43.520667,-80.228318,,,,,,0
+605,605,Harvard at Youngman southbound,Harvard Road,43.518156,-80.228391,,,,,,0
+608,608,Scottsdale at Stone southbound,Scottsdale Drive,43.514751,-80.238501,,,,,,0
+609,609,Scottsdale at Ironwood southbound,Scottsdale Drive,43.512997,-80.23517,,,,,,0
+610,610,Ironwood at Steffler Park southbound,Ironwood Road,43.511112,-80.235055,,,,,,0
+611,611,Ironwood at Cole southbound,Ironwood Road,43.508896,-80.232972,,,,,,0
+612,612,Ironwood at Woodborough southbound,Ironwood Road,43.507095,-80.22987,,,,,,0
+613,613,Ironwood at Hilldale southbound,Ironwood Road,43.505682,-80.227244,,,,,,0
+614,614,367 Ironwood northbound,367 Ironwood Road,43.507496,-80.225659,,,,,,0
+615,615,Ironwood at Kortright northbound,Ironwood Road,43.509869,-80.227979,,,,,,0
+616,616,Scottsdale at Steffler northbound,Scottsdale Drive,43.512324,-80.232137,,,,,,0
+617,617,Scottsdale at Cole northbound,Scottsdale Drive,43.513822,-80.236957,,,,,,0
+618,618,Scottsdale at Stone northbound,Scottsdale Drive,43.514739,-80.238217,,,,,,0
+621,621,Stone at Edinburgh eastbound,Stone Road West,43.519491,-80.23419,,,,,,0
+622,622,Youngman at Harvard eastbound,Youngman Drive,43.517722,-80.228487,,,,,,0
+623,623,Harvard at Princeton eastbound,Harvard Road,43.520724,-80.228066,,,,,,0
+624,624,Harvard at Rickson eastbound,Harvard Road,43.522459,-80.225738,,,,,,0
+625,625,Harvard at Harrow eastbound,Harvard Road,43.52421,-80.221743,,,,,,0
+703,703,Kortright at Yewholme westbound,Kortright Road West,43.52037,-80.214822,,,,,,0
+704,704,Kortright at Rickson westbound,Kortright Road West,43.517057,-80.216554,0,,,,,0
+705,705,Kortright at Edinburgh westbound,Kortright Road West,43.513539,-80.221261,,,,,,0
+706,706,Kortright at Scottsdale westbound,Kortright Road West,43.510639,-80.227102,,,,,,0
+707,707,Kortright at Ironwood westbound,Kortright Road West,43.509246,-80.230735,,,,,,0
+708,708,Kortright at Hanlon westbound,Kortright Road West,43.507003,-80.233794,,,,,,0
+709,709,Downey at Woodland Glen westbound,Downey Road,43.505417,-80.236733,,,,,,0
+710,710,Niska at Tanager westbound,Niska Road,43.504418,-80.242251,,,,,,0
+711,711,Ptarmigan at Niska southbound,Ptarmigan Drive,43.503292,-80.246066,,,,,,0
+712,712,Ptarmigan at Pheasant Run southbound,Ptarmigan Drive,43.499654,-80.244161,,,,,,0
+713,713,Ptarmigan at Downey eastbound,Ptarmigan Drive,43.499775,-80.237982,,,,,,0
+714,714,Downey at Hazelwood northbound,82 Downey Road,43.50235,-80.239051,,,,,,0
+715,715,Downey at Niska eastbound,Downey Road,43.504889,-80.237959,,,,,,0
+716,716,Kortright at Hanlon eastbound,Kortright Road West,43.506934,-80.233541,,,,,,0
+717,717,Kortright at Ironwood eastbound,Kortright Road West,43.509026,-80.230683,,,,,,0
+718,718,Kortright at Preservation Park eastbound,Kortright Road West,43.511209,-80.224259,,,,,,0
+720,720,Kortright at Rickson eastbound,Kortright Road West,43.516551,-80.216887,,,,,,0
+721,721,Kortright at Yewholme eastbound,Kortright Road West,43.519763,-80.214803,0,,,,,0
+801,801,Wyndham at Fountain southbound,Wyndham Street South,43.543416,-80.245865,0,,,,,0
+802,802,Wellington at Wyndham westbound,Wellington Street East,43.542282,-80.243956,0,,,,,0
+808,808,Edinburgh at Maplewood southbound,Edinburgh Road South,43.527423,-80.244515,,,,,,0
+813,813,Stone Road Mall Platform 1,Scottsdale Drive,43.518749,-80.239206,,,,,,0
+815,815,268 Scottsdale northbound,268 Scottsdale Drive,43.521752,-80.241999,,,,,,0
+816,816,Scottsdale at College northbound,Scottsdale Drive,43.523259,-80.243572,,,,,,0
+818,818,Edinburgh at Floral northbound,Edinburgh Road South,43.526836,-80.243419,,,,,,0
+819,819,Edinburgh at Lockyer northbound,Edinburgh Road South,43.528501,-80.245757,,,,,,0
+820,820,Edinburgh at Municipal northbound,Edinburgh Road South,43.529864,-80.247666,,,,,,0
+821,821,Edinburgh at Honey northbound,Edinburgh Road South,43.532364,-80.251167,,,,,,0
+824,824,Waterloo at Glasgow eastbound,Waterloo Avenue,43.539094,-80.252129,,,,,,0
+901,901,Waterloo at Dublin westbound,Waterloo Avenue,43.54142,-80.249836,,,,,,0
+902,902,Waterloo at Glasgow westbound,Waterloo Avenue,43.538904,-80.252508,,,,,,0
+903,903,Waterloo at Fergus westbound,Waterloo Avenue,43.536585,-80.254978,,,,,,0
+904,904,Waterloo at Edinburgh westbound,Waterloo Avenue,43.535166,-80.256499,,,,,,0
+905,905,Waterloo at Hearn westbound,Waterloo Avenue,43.532703,-80.259134,,,,,,0
+906,906,Waterloo at Woodycrest westbound,Waterloo Avenue,43.531218,-80.260768,0,,,,,0
+907,907,659 Wellington westbound,659 Wellington Street West,43.522828,-80.267652,,,,,,0
+916,916,Imperial at Wellington southbound,Imperial Road South,43.520769,-80.269876,,,,,,0
+917,917,Wellington at Wastewater Treatment Plant eastbound,Wellington Street West,43.522945,-80.267244,,,,,,0
+918,918,Waterloo at Woodycrest eastbound,Waterloo Avenue,43.531139,-80.260627,,,,,,0
+919,919,Waterloo at Saint Arnaud eastbound,Waterloo Avenue,43.533613,-80.257992,,,,,,0
+920,920,Waterloo at McGee eastbound,Waterloo Avenue,43.536289,-80.255114,0,,,,,0
+922,922,Waterloo at Dublin eastbound,Waterloo Avenue,43.541399,-80.249687,,,,,,0
+1001,1001,Quebec at Wyndham westbound,Quebec Street,43.54589,-80.249601,,,,,,0
+1002,1002,Paisley at Norfolk westbound,Paisley Street,43.545396,-80.252887,,,,,,0
+1003,1003,Paisley at Glasgow westbound,,43.543483,-80.256727,,,,,,0
+1004,1004,Paisley at Yorkshire westbound,Paisley Street,43.542415,-80.258817,,,,,,0
+1005,1005,Paisley at Harrison westbound,Paisley Street,43.54152,-80.260564,,,,,,0
+1006,1006,Paisley at Edinburgh westbound,Paisley Street,43.540678,-80.263192,,,,,,0
+1007,1007,Paisley at Alma westbound,Paisley Road,43.53891,-80.265595,,,,,,0
+1008,1008,Paisley at Western westbound,Paisley Road,43.536482,-80.26891,,,,,,0
+1009,1009,Paisley at Heath westbound,Paisley Road,43.534663,-80.271413,,,,,,0
+1010,1010,Westwood at Silvercreek westbound,Westwood Road,43.535464,-80.274917,0,,,,,0
+1011,1011,Westwood at Margaret Greene Park westbound,Westwood Road,43.532797,-80.278771,,,,,,0
+1012,1012,225 Westwood northbound,225 Westwood Road,43.53275,-80.285207,,,,,,0
+1013,1013,Willow at Westwood westbound,Willow Road,43.533197,-80.288293,,,,,,0
+1014,1014,Willow at Wimbledon westbound,Willow Road,43.531455,-80.290597,,,,,,0
+1015,1015,Imperial at Ferman southbound,Imperial Road South,43.527627,-80.2906,,,,,,0
+1017,1017,Paisley at Imperial eastbound,Paisley Road,43.526137,-80.2854,,,,,,0
+1018,1018,Paisley at Candlewood eastbound,Paisley Road,43.529138,-80.278887,,,,,,0
+1019,1019,Paisley at Fischer eastbound,Paisley Road,43.530729,-80.276427,,,,,,0
+1020,1020,Paisley at Glengarry eastbound,Paisley Road,43.5345,-80.271478,,,,,,0
+1021,1021,Paisley at Memorial eastbound,Paisley Road,43.536692,-80.268457,0,,,,,0
+1022,1022,Paisley at Alma eastbound,Paisley Road,43.538765,-80.265631,,,,,,0
+1023,1023,Paisley at Edinburgh eastbound,Paisley Road,43.540467,-80.263286,,,,,,0
+1025,1025,Paisley at Glasgow eastbound,Paisley Street,43.543293,-80.256863,,,,,,0
+1026,1026,Paisley at Norfolk eastbound,Paisley Street,43.545171,-80.253153,,,,,,0
+1101,1101,Norfolk at Cork northbound,Norfolk Street & CORK ST W,43.544164,-80.250812,,,,,,0
+1102,1102,Suffolk at Norfolk westbound,Suffolk Street West,43.547337,-80.254949,,,,,,0
+1105,1105,Suffolk at Yorkshire westbound,Suffolk Street West,43.544259,-80.260805,,,,,,0
+1106,1106,Suffolk at Edinburgh westbound,Suffolk Street West,43.542564,-80.264116,,,,,,0
+1108,1108,Willow at Dawson westbound,Willow Road,43.545392,-80.27152,,,,,,0
+1109,1109,Dawson at Shelldale northbound,Dawson Road,43.545838,-80.274215,,,,,,0
+1110,1110,Dawson at Guelph Medical Place northbound,Dawson Road,43.548912,-80.278481,,,,,,0
+1113,1113,Speedvale at Lewis westbound,Speedvale Avenue West,43.542551,-80.290174,,,,,,0
+1114,1114,Marksam at Stephen southbound,Marksam Road,43.539067,-80.290679,,,,,,0
+1115,1115,Marksam at Matthew southbound,Marksam Road,43.537876,-80.288892,,,,,,0
+1116,1116,Marksam at Sanderson southbound,Marksam Road,43.537424,-80.284326,,,,,,0
+1117,1117,Willow at Silvercreek eastbound,Willow Road,43.540252,-80.278287,,,,,,0
+1118,1118,Willow at Guelph eastbound,Willow Road,43.54267,-80.274999,,,,,,0
+1121,1121,Edinburgh at Suffolk southbound,Edinburgh Road North,43.542284,-80.264823,,,,,,0
+1122,1122,Paisley at Yorkshire eastbound,Paisley Street,43.54247,-80.258475,,,,,,0
+1130,1130,Wyndham at Cork southbound,Wyndham Street North,43.545618,-80.249032,,,,,,0
+1131,1131,Marksam at Speedvale southbound,Marksam Road,43.54058,-80.291829,,,,,,0
+1203,1203,Delhi at Eramosa northbound,Delhi Street,43.553427,-80.250425,,,,,,0
+1204,1204,Delhi at Guelph General Hospital northbound,Delhi Street,43.555478,-80.253275,,,,,,0
+1205,1205,Delhi at Homewood Health Centre northbound,Delhi Street,43.558006,-80.256812,,,,,,0
+1206,1206,Delhi at Emma northbound,Delhi Street,43.55969,-80.25912,,,,,,0
+1207,1207,Emma at Metcalfe eastbound,Emma Street,43.561977,-80.256675,,,,,,0
+1208,1208,Emma at Pine eastbound,Emma Street,43.562984,-80.255293,,,,,,0
+1209,1209,Speedvale at Stevenson eastbound,Speedvale Avenue East,43.566239,-80.257315,,,,,,0
+1210,1210,Speedvale at Renfield eastbound,Speedvale Avenue East,43.568989,-80.253603,,,,,,0
+1211,1211,Speedvale at Acorn eastbound,Speedvale Avenue East,43.570231,-80.251881,,,,,,0
+1213,1213,Victoria at Brant northbound,Victoria Road North,43.575329,-80.256434,,,,,,0
+1214,1214,Woodlawn at Victoria westbound,Woodlawn Road East,43.577342,-80.260578,,,,,,0
+1215,1215,Windsor at Kingsley southbound,Windsor Street,43.57296,-80.260716,,,,,,0
+1216,1216,Waverley at Knightswood westbound,Waverley Drive,43.570563,-80.261323,,,,,,0
+1217,1217,Metcalfe at Waverley southbound,Metcalfe Street,43.568041,-80.264599,,,,,,0
+1218,1218,Metcalfe at Shaftesbury southbound,Metcalfe Street,43.565957,-80.261716,,,,,,0
+1219,1219,Metcalfe at Speedvale southbound,Metcalfe Street,43.56455,-80.260081,,,,,,0
+1220,1220,Speedvale at Clive westbound,Speedvale Avenue East,43.563077,-80.261958,,,,,,0
+1221,1221,Delhi at Philip southbound,Delhi Street,43.561276,-80.261528,0,,,,,0
+1222,1222,Delhi at Emma southbound,Delhi Street,43.559755,-80.259415,,,,,,0
+1223,1223,Delhi at Homewood Health Centre southbound,Delhi Street,43.557478,-80.256232,,,,,,0
+1224,1224,Delhi at Guelph General Hospital southbound,Delhi Street,43.555388,-80.253356,,,,,,0
+1225,1225,Delhi at Eramosa southbound,Delhi Street,43.553192,-80.250307,,,,,,0
+1302,1302,Eramosa at Arthur eastbound,Eramosa Road,43.549144,-80.250382,,,,,,0
+1303,1303,Eramosa at Saint Catharine eastbound,Eramosa Road,43.556164,-80.249405,,,,,,0
+1311,1311,Cassino at William eastbound,35 Cassino Avenue,43.558253,-80.240035,,,,,,0
+1312,1312,Cassino at Palermo eastbound,101 Cassino Avenue,43.561435,-80.235853,,,,,,0
+1313,1313,Cassino at Hadati northbound,129 Cassino Avenue,43.562827,-80.234711,,,,,,0
+1314,1314,Hadati at Yeats northbound,Hadati Road & WELLINGTON STREET WES,43.564519,-80.237831,,,,,,0
+1315,1315,Hadati at Victoria westbound,Hadati Road,43.563927,-80.240338,,,,,,0
+1323,1323,Victoria at Greenview northbound,Victoria Road North,43.567161,-80.245057,,,,,,0
+1324,1324,Eramosa at Orchard westbound,Eramosa Road,43.567422,-80.247993,,,,,,0
+1325,1325,Eramosa at Meyer westbound,Eramosa Road,43.562367,-80.248723,,,,,,0
+1326,1326,Eramosa at Stevenson westbound,Eramosa Road,43.559464,-80.249151,,,,,,0
+1327,1327,Eramosa at Metcalfe westbound,Eramosa Road & METCALFE ST,43.55665,-80.249551,,,,,,0
+1328,1328,Eramosa at Arthur westbound,Eramosa Road,43.549126,-80.250568,,,,,,0
+1402,1402,Elizabeth at Huron eastbound,Elizabeth Street,43.549062,-80.24016,,,,,,0
+1403,1403,Elizabeth at Morris eastbound,Elizabeth Street,43.550912,-80.237681,,,,,,0
+1404,1404,Elizabeth at Stevenson eastbound,Elizabeth Street,43.552867,-80.235094,,,,,,0
+1405,1405,Elizabeth at Victoria eastbound,Elizabeth Street,43.555196,-80.229868,,,,,,0
+1406,1406,Grange at Victoria eastbound,Grange Road,43.558275,-80.231411,,,,,,0
+1407,1407,Grange at Schroder eastbound,Grange Road,43.559878,-80.227096,0,,,,,0
+1408,1408,Grange at Breesegarden eastbound,Grange Road,43.564026,-80.222958,,,,,,0
+1409,1409,Grange at Ralston eastbound,Grange Road,43.567445,-80.222561,,,,,,0
+1410,1410,Grange at Brydges eastbound,Grange Road,43.570571,-80.221752,0,,,,,0
+1411,1411,Watson at Grange southbound,Watson Parkway North,43.573329,-80.21777,,,,,,0
+1414,1414,Starwood at Fleming northbound,Starwood Drive,43.566452,-80.217918,,,,,,0
+1415,1415,Starwood at Ralston northbound,Starwood Drive,43.566724,-80.221039,,,,,,0
+1416,1416,Grange at Silurian westbound,Grange Road,43.565641,-80.223004,,,,,,0
+1417,1417,Grange at Auden westbound,Grange Road,43.56048,-80.226478,,,,,,0
+1418,1418,Grange at Schroder westbound,Grange Road,43.559015,-80.228527,,,,,,0
+1419,1419,Victoria at Grange southbound,Victoria Road North,43.557187,-80.231332,,,,,,0
+1420,1420,Elizabeth at Victoria westbound,Elizabeth Street,43.555279,-80.230271,,,,,,0
+1421,1421,Elizabeth at Stevenson westbound,Elizabeth Street,43.553369,-80.234624,,,,,,0
+1422,1422,Elizabeth at Morris westbound,Elizabeth Street,43.551484,-80.237111,,,,,,0
+1423,1423,Elizabeth at Huron westbound,Elizabeth Street,43.549527,-80.239707,,,,,,0
+1424,1424,Elizabeth at Duke westbound,Elizabeth Street,43.548552,-80.241017,,,,,,0
+1501,1501,Stone at Research westbound,Stone Road West,43.525095,-80.227034,,,,,,0
+1503,1503,175 Stone westbound,175 Stone Road West,43.521917,-80.231306,,,,,,0
+1505,1505,Stone at Stone Road Mall westbound,Stone Road West,43.517441,-80.237204,,,,,,0
+1507,1507,Stone at Woodland Glen westbound,Stone Road West,43.510099,-80.247014,,,,,,0
+1508,1508,College at Flanders northbound,College Avenue West,43.510561,-80.250236,,,,,,0
+1509,1509,College at Conroy northbound,College Avenue West,43.511799,-80.252961,,,,,,0
+1510,1510,College at Argyle northbound,College Avenue West,43.513954,-80.256209,,,,,,0
+1511,1511,College at Devere eastbound,College Avenue West,43.517188,-80.252786,,,,,,0
+1512,1512,College at Hanlon eastbound,College Avenue West,43.519595,-80.249431,,,,,,0
+1516,1516,Scottsdale at Wilsonview northbound,Scottsdale Drive,43.520943,-80.239904,,,,,,0
+1519,1519,252 Stone eastbound,252 Stone Road West,43.521654,-80.231246,,,,,,0
+1520,1520,Stone at Research eastbound,Stone Road West,43.524693,-80.227166,,,,,,0
+1602,1602,Gordon at Water southbound,Gordon Street,43.538303,-80.241368,,,,,,0
+1606,1606,Gordon at Stone southbound,Gordon Street,43.52735,-80.226117,,,,,,0
+1612,1612,Gordon at Arkell southbound,Gordon Street,43.513912,-80.199892,,,,,,0
+1613,1613,Gordon at Vaughan southbound,Gordon Street,43.511739,-80.197166,,,,,,0
+1614,1614,Gordon at Lowes southbound,Gordon Street,43.508879,-80.195804,0,,,,,0
+1615,1615,Gordon at Clairfields southbound,Gordon Street,43.505172,-80.194346,,,,,,0
+1619,1619,Laird at Clair westbound,Laird Road,43.492919,-80.200118,,,,,,0
+1620,1620,Southgate at Laird northbound,CLAIRFIELDS DRIVE WES & SKOV CRESCENT,43.494653,-80.207422,,,,,,0
+1621,1621,125 Southgate northbound,125 Southgate Drive,43.497292,-80.210683,,,,,,0
+1622,1622,175 Southgate northbound,175 Southgate Drive,43.499218,-80.212573,,,,,,0
+1623,1623,295 Southgate northbound,295 Southgate Drive,43.501585,-80.216096,,,,,,0
+1624,1624,485 Southgate southbound,485 Southgate Drive,43.499309,-80.219276,,,,,,0
+1625,1625,525 Southgate southbound,525 Southgate Drive,43.496897,-80.216977,,,,,,0
+1626,1626,595 Southgate southbound,595 Southgate Drive,43.494531,-80.213814,,,,,,0
+1627,1627,Southgate at Cowan southbound,Southgate Drive,43.493574,-80.211325,,,,,,0
+1628,1628,Southgate at Corporate southbound,Southgate Drive,43.492153,-80.208643,,,,,,0
+1629,1629,Southgate at Admiral southbound,Southgate Drive,43.490636,-80.206489,,,,,,0
+1630,1630,Clair at Southgate eastbound,Southgate Drive,43.489769,-80.202976,,,,,,0
+1631,1631,Clair at Laird eastbound,Clair Road West,43.492565,-80.200099,,,,,,0
+1633,1633,Gosling at Clair northbound,Gosling Gardens,43.49932,-80.191614,0,,,,,0
+1634,1634,Gosling at Gosling Gardens Park northbound,,43.50133,-80.192985,0,,,,,0
+1635,1635,Gosling at Clairfields northbound,CLAIRFIELDS DRIVE WES,43.503444,-80.195849,,,,,,0
+1636,1636,Gordon at Clairfields northbound,Gordon Street,43.505774,-80.194329,,,,,,0
+1647,1647,Gordon at Stone northbound,Gordon Street,43.527268,-80.2256,,,,,,0
+1649,1649,Gordon at College northbound,Gordon Street,43.532837,-80.233349,,,,,,0
+1652,1652,Wellington at Gordon eastbound,Wellington Street East,43.541308,-80.244224,,,,,,0
+2001,2001,Woolwich at Norwich northbound,Woolwich Street,43.548696,-80.254643,,,,,,0
+2002,2002,London at Hamel westbound,London Road,43.544004,-80.265296,,,,,,0
+2004,2004,Willow at Guelph westbound,Willow Road,43.542785,-80.275109,,,,,,0
+2005,2005,Willow at Silvercreek westbound,Willow Road,43.539773,-80.279272,,,,,,0
+2006,2006,Willow at Marksam westbound,Willow Road,43.536656,-80.283514,,,,,,0
+2007,2007,Willow at Rhonda westbound,Willow Road,43.534871,-80.285984,,,,,,0
+2011,2011,Elmira at Flaherty northbound,Elmira Road North,43.530623,-80.303687,,,,,,0
+2012,2012,Elmira at Independence northbound,Elmira Road North,43.532849,-80.30643,,,,,,0
+2014,2014,Elmira at Woodlawn northbound,Elmira Road North,43.537186,-80.31243,0,,,,,0
+2015,2015,Woodlawn at Michener westbound,Woodlawn Road West,43.535798,-80.317838,,,,,,0
+2016,2016,Governors at Woodlawn northbound,Governors Road,43.533277,-80.322076,,,,,,0
+2017,2017,Malcolm at Michener eastbound,Malcolm Road,43.536101,-80.322631,,,,,,0
+2018,2018,30 Malcolm eastbound,30 Malcolm Road,43.538857,-80.318775,,,,,,0
+2019,2019,Malcolm at Elmira eastbound,Malcolm Road,43.53994,-80.317256,,,,,,0
+2020,2020,Michener at Woodlawn southbound,Michener Road,43.533929,-80.31917,,,,,,0
+2021,2021,Michener at Minto southbound,Michener Road,43.532212,-80.316838,,,,,,0
+2022,2022,Massey at Michener eastbound,Massey Road,43.532133,-80.313693,,,,,,0
+2023,2023,Massey at Elmira eastbound,Massey Road,43.534768,-80.309913,,,,,,0
+2024,2024,400 Massey eastbound,400 Massey Road,43.536356,-80.30773,,,,,,0
+2025,2025,240 Massey eastbound,240 Massey Road,43.53862,-80.304604,,,,,,0
+2026,2026,Massey at Imperial eastbound,Massey Road,43.54038,-80.302196,,,,,,0
+2028,2028,Imperial at Galaxy Cinema northbound,Imperial Road North,43.545079,-80.307769,,,,,,0
+2029,2029,Curtis at Monarch eastbound,Curtis Drive,43.549344,-80.306137,,,,,,0
+2030,2030,Curtis at Regal eastbound,Curtis Drive,43.550972,-80.30391,,,,,,0
+2031,2031,Curtis at Silvercreek eastbound,Curtis Drive,43.553763,-80.300081,,,,,,0
+2032,2032,Silvercreek at Woodlawn southbound,Silvercreek Parkway North,43.550813,-80.295564,,,,,,0
+2033,2033,Silvercreek at Campbell southbound,Silvercreek Parkway North,43.548411,-80.292202,,,,,,0
+2034,2034,Silvercreek at Speedvale southbound,Silvercreek Parkway North,43.545093,-80.287604,,,,,,0
+2035,2035,Silvercreek at Greengate southbound,Silvercreek Parkway North,43.542905,-80.284551,,,,,,0
+2036,2036,Silvercreek at Willow southbound,Silvercreek Parkway North,43.540083,-80.280662,,,,,,0
+2037,2037,Willow at Alma eastbound,Willow Road,43.543525,-80.27381,0,,,,,0
+2040,2040,Willow at Edinburgh eastbound,Willow Road,43.545199,-80.271517,,,,,,0
+5602,5602,1035 Victoria southbound,1035 Victoria Road,43.531383,-80.195659,,,,,,0
+5608,5608,Gordon at Arkell northbound,Gordon Street,43.514019,-80.199657,,,,,,0
+5709,5709,Stone at Scottsdale eastbound,Stone Road West,43.516167,-80.238592,,,,,,0
+5806,5806,Kortright at Edinburgh eastbound,Kortright Road West,43.51432,-80.219872,,,,,,0
+5807,5807,Gordon at Kortright northbound,Gordon Street,43.522746,-80.213816,,,,,,0
+5810,5810,Suffolk at Dublin westbound,Suffolk Street West,43.546406,-80.256774,,,,,,0
+5814,5814,Eastview at Auden eastbound,Eastview Road,43.569149,-80.236091,0,,,,,0
+5820,5820,Eramosa at Delhi westbound,Eramosa Road & ARDMAY CR,43.553907,-80.249915,,,,,,0
+5829,5829,Imperial at Speedvale northbound,Imperial Road North,43.536762,-80.296241,0,,,,,0
+5830,5830,Wyndham at Quebec northbound,Wyndham Street North,43.545855,-80.248962,,,,,,0
+5831,5831,University Centre South Loop Platform 3,South Ring Road,43.528915,-80.22357,,,,,,0
+5832,5832,University Centre South Loop Platform 5,South Ring Road,43.529154,-80.223879,0,,,,,0
+5833,5833,Guelph Central Station Platform 1,Macdonell Street,43.546108,-80.245165,,,,,,0
+5834,5834,University Centre North Loop Platform 10,South Ring Road,43.529975,-80.22503,,,,,,0
+5836,5836,University Centre North Loop Platform 7,South Ring Road,43.529619,-80.224547,,,,,,0
+5837,5837,Guelph Central Station Platform 5,Carden Street,43.54586,-80.245275,,,,,,0
+5838,5838,University Centre North Loop Platform 9,South Ring Road,43.529848,-80.224868,,,,,,0
+5839,5839,Guelph Central Station Platform 6,ERAMOSA ROAD & SKOV CRESCENT,43.54571,-80.245411,,,,,,0
+5840,5840,University Centre South Loop Platform 6,South Ring Road,43.529272,-80.224031,,,,,,0
+5841,5841,Guelph Central Station Platform 21,Macdonell Street,43.545791,-80.2458,,,,,,0
+5843,5843,University Centre South Loop Platform 1,LOWES ROAD,43.528565,-80.223412,0,,,,,0
+5845,5845,University Centre South Loop Platform 4,South Ring Road,43.529045,-80.223723,0,,,,,0
+5847,5847,University Centre North Loop Platform 11,South Ring Road,43.530091,-80.225189,,,,,,0
+5848,5848,University Centre North Loop Platform 12 A,South Ring Road,43.530208,-80.225346,0,,,,,0
+5849,5849,Guelph Central Station Platform 2,GUELPH CENTRAL STATION & MACDONELL STREET,43.546205,-80.244966,0,,,,,0
+5850,5850,Guelph Central Station Platform 3,Carden Street,43.546118,-80.245023,,,,,,0
+5851,5851,Guelph Central Station Platform 4,Carden Street,43.545998,-80.245159,0,,,,,0
+5852,5852,Guelph Central Station Platform 7,Carden Street,43.545593,-80.245533,,,,,,0
+5853,5853,Guelph Central Station Platform 8,ARTHUR STREET SOUTH,43.544946,-80.246212,0,,,,,0
+5857,5857,Guelph Central Station Platform 18,Carden Street,43.545545,-80.245645,,,,,,0
+5858,5858,Guelph Central Station Platform 19,Carden Street,43.54569,-80.245525,,,,,,0
+5859,5859,Guelph Central Station Platform 20,Carden Street,43.545837,-80.245397,,,,,,0
+5860,5860,Guelph Central Station Platform 22,Macdonell Street,43.5457,-80.245971,0,,,,,0
+5861,5861,Eastview at Watson eastbound,Watson Parkway North,43.577775,-80.224363,,,,,,0
+5862,5862,Watson at Shackleton northbound,Watson Parkway North,43.575952,-80.221071,,,,,,0
+5863,5863,Elmira at Massey northbound,Elmira Road North,43.534489,-80.308687,,,,,,0
+5911,5911,Woodland Glen at Trillium northbound,Woodland Glen Drive,43.506355,-80.237339,0,,,,,0
+5915,5915,Arkell at Victoria westbound,Victoria Road South,43.523441,-80.186501,,,,,,0
+5917,5917,Woodlawn Smart Centres southbound,Woodlawn Road West,43.563774,-80.281538,,,,,,0
+5923,5923,Woodlawn at Arrow eastbound,Woodlawn Road West,43.553295,-80.293471,,,,,,0
+5924,5924,Starwood at Skinner northbound,Starwood Drive,43.566452,-80.213897,,,,,,0
+5926,5926,Edinburgh at Water southbound,EDINBURGH ROAD SOUTH,43.532021,-80.250978,,,,,,0
+5934,5934,Edinburgh at Municipal southbound,Edinburgh Road South & MUNICIPAL ST,43.530091,-80.248243,0,,,,,0
+5936,5936,Wellington at Dublin westbound,Wellington Street West & GORDON ST,43.539743,-80.245219,,,,,,0
+5937,5937,Wellington at Holliday westbound,Wellington Street West & GORDON ST,43.536888,-80.249781,0,,,,,0
+5939,5939,Wellington at Imperial westbound,Wellington Street West,43.520271,-80.268687,0,,,,,0
+5940,5940,West Acres at Northwood eastbound,West Acres Drive & IMPERIAL RD S,43.519455,-80.276747,,,,,,0
+5941,5941,West Acres at Imperial eastbound,West Acres Drive,43.521836,-80.27365,,,,,,0
+5942,5942,Speedvale at Conestoga College eastbound,Speedvale Avenue West,43.538736,-80.295143,0,,,,,0
+5957,5957,Watson at Shackleton southbound,Watson Parkway North,43.575754,-80.221147,,,,,,0
+5958,5958,Speedvale at Edinburgh westbound,Speedvale Avenue West & EDINBURGH RD N,43.552344,-80.276704,,,,,,0
+5959,5959,Edinburgh at Burns northbound,Edinburgh Road North & LONSDALE DR,43.555449,-80.283132,0,,,,,0
+5960,5960,Suffolk at Norfolk eastbound,Suffolk Street West,43.547459,-80.254496,,,,,,0
+5963,5963,Clair at Clairfields westbound,Clair Road West,43.495516,-80.195657,0,,,,,0
+5964,5964,Clair at Clairfields eastbound,Clair Road West,43.495575,-80.195184,,,,,,0
+5965,5965,Clairfields at Gordon eastbound,Clairfields Drive West,43.504586,-80.194221,,,,,,0
+5982,5982,College at McGilvray eastbound,College Avenue West,43.527995,-80.238036,,,,,,0
+5985,5985,Norfolk at Liverpool southbound,Norfolk Street,43.547052,-80.253903,0,,,,,0
+5986,5986,College at University westbound,College Avenue West,43.527934,-80.238322,,,,,,0
+6003,6003,Norfolk at Oxford northbound,Norfolk Street,43.545915,-80.252594,,,,,,0
+6004,6004,230 Silvercreek southbound,Silvercreek Parkway North,43.544058,-80.286154,,,,,,0
+6006,6006,Clairfields at Doyle northbound,Clairfields Drive West,43.495714,-80.196603,,,,,,0
+6007,6007,Clairfields at Gibbs northbound,Clairfields Drive West,43.499479,-80.199412,,,,,,0
+6008,6008,Clairfields at Paulstown eastbound,Clairfields Drive West,43.502031,-80.198111,,,,,,0
+6011,6011,Edinburgh at Lonsdale northbound,Edinburgh Road North,43.553539,-80.28045,0,,,,,0
+6013,6013,Victoria at Macalister southbound,Victoria Road South,43.532866,-80.197672,,,,,,0
+6027,6027,Edinburgh at Wellington southbound,Edinburgh Road South & WELLINGTON STREET WES,43.533863,-80.253289,,,,,,0
+6029,6029,Imperial at West End Community Centre southbound,Imperial Road South,43.525543,-80.289038,,,,,,0
+6030,6030,London at Exhibition westbound,LONDON ROAD WEST,43.548147,-80.259709,,,,,,0
+6043,6043,Edinburgh at Thornberry southbound,EDINBURGH ROAD SOU & STONE ROAD WES,43.518926,-80.232639,,,,,,0
+6044,6044,Elmira at Tovell southbound,ELMIRA ROAD NOR & TOVELL DRIVE,43.525584,-80.296821,,,,,,0
+6045,6045,199 Westwood westbound,WESTWOOD ROAD,43.532145,-80.282334,,,,,,0
+6046,6046,Gordon at Royal City Park northbound,GORDON STREET,43.53948,-80.242763,,,,,,0
+6047,6047,Stone Road Mall Platform 2,SCOTTSDALE DRIVE,43.518573,-80.239441,,,,,,0
+6048,6048,Stone Road Mall Platform 3,SCOTTSDALE DRIVE,43.518402,-80.239685,,,,,,0
+6052,6052,Grange at Clythe Creek eastbound,,43.572347,-80.219782,,,,,,0
+6055,6055,Woodlawn Smart Centres northbound,WOODLAWN SMART CENTRES,43.564122,-80.281735,,,,,,0
+6056,6056,Eramosa at Stevenson eastbound,,43.559504,-80.248895,,,,,,0
+6058,6058,Clair at Gosling westbound,CLAIR ROAD WEST & CLAIR ROAD EAST,43.499197,-80.190701,0,,,,,0
+6060,6060,Edinburgh at Wellington northbound,,43.533958,-80.253141,,,,,,0
+6063,6063,Woolwich at Heffernan northbound,WOOLWICH STREET,43.547361,-80.247088,,,,,,0
+6064,6064,Watt at Auden eastbound,WATT STREET & AUDEN ROAD,43.56785,-80.231784,,,,,,0
+6065,6065,1027 Gordon southbound,GORDON STREET,43.520852,-80.210319,,,,,,0
+6066,6066,Wellington at Holliday eastbound,WELLINGTON STREET WES,43.536757,-80.249885,,,,,,0
+6067,6067,Macdonell at Wilson eastbound,GORDON STREET,43.544152,-80.24915,,,,,,0
+6068,6068,Macdonell at Wilson westbound,MACDONELL STREET & WILSON STREET,43.54428,-80.249351,,,,,,0
+6075,6075,Scottsdale at College southbound,SCOTTSDALE DRIVE & MEADOW CRESCENT,43.523129,-80.24362,0,,,,,0
+6076,6076,Scottsdale at Wilsonview southbound,SCOTTSDALE DRIVE & MEADOW CRESCENT,43.520811,-80.239921,,,,,,0
+6077,6077,Arkell at Amos westbound,ARKELL ROAD & RIDGEWAY AVENUE,43.519692,-80.191558,,,,,,0
+6079,6079,Wellington at Dublin eastbound,WELLINGTON STREET WES & GORDON STREET,43.538884,-80.245393,,,,,,0
+6082,6082,Norfolk at Suffolk northbound,NORFOLK STREET,43.547857,-80.254465,,,,,,0
+6085,6085,Gordon at Oak southbound,,43.523926,-80.216658,,,,,,0
+6094,6094,Norfolk at Cork southbound,NORFOLK STREET & MACDONELL STREET,43.544561,-80.251457,,,,,,0
+6095,6095,1750 Gordon southbound,GORDON STREET,43.50205,-80.191559,,,,,,0
+6096,6096,Elmira at Tovell northbound,ELMIRA ROAD NORTH,43.525705,-80.296706,0,,,,,0
+6097,6097,Woolwich at Verney southbound,WOOLWICH STREET & CLARENCE STREET,43.55557,-80.264491,,,,,,0
+6098,6098,Clair at Hawkins eastbound,CLAIR ROAD EAST,43.502519,-80.1859,,,,,,0
+6100,6100,Poppy at Hawkins westbound,HAWKINS DRIVE,43.501244,-80.184787,,,,,,0
+6101,6101,Poppy at Gordon westbound,POPPY DRIVE EAST,43.499453,-80.187186,,,,,,0
+6102,6102,361 Southgate westbound,SOUTHGATE DRIVE,43.501867,-80.219436,,,,,,0
+6103,6103,Victoria at Decorso Southbound,VICTORIA ROAD SOUTH,43.52648,-80.188995,,,,,,0
+6104,6104,Brothers Brewing Company,WYNDHAM STREET NORTH & CORK STREET EAST,43.545053,-80.248196,,,,,,0
+6105,6105,Fixed Gear Brewing Co,ALMA STREET SOUTH,43.535621,-80.26224,,,,,,0
+6106,6106,Wellington Brewery,WOODLAWN ROAD WEST & GOVERNORS ROAD,43.533277,-80.321072,,,,,,0
+6109,6109,Royal City Brewing Co,VICTORIA ROAD SOUTH & GORDON STREET,43.552485,-80.224803,,,,,,0
+6112,6112,Poppy at Dallan westbound,POPPY DRIVE EAST & KAY CRESCENT,43.502577,-80.181957,0,,,,,0
+6113,6113,Clair at Dallan eastbound,CLAIR ROAD EAST & HAWKINS DRIVE,43.50477,-80.18288,0,,,,,0
+6114,6114,Laird at Southgate westbound,LAIRD ROAD & HANLON EXPRESSWAY NORTH,43.493241,-80.209416,,,,,,0
+6115,6115,Laird at Cooper southbound,LAIRD ROAD & HANLON EXPRESSWAY NORTH,43.485551,-80.214637,,,,,,0
+6116,6116,Quarterman at Laird eastbound,QUARTERMAN ROAD & HANLON EXPRESSWAY NORTH,43.482707,-80.211688,,,,,,0
+6117,6117,Quarterman at Cooper northbound,QUARTERMAN ROAD & HANLON EXPRESSWAY NORTH,43.484408,-80.21097,,,,,,0
+6118,6118,Cooper at Phelan westbound,COOPER DRIVE & HANLON EXPRESSWAY NORTH,43.48599,-80.21189,,,,,,0
+6119,6119,Hanlon Creek at Laird westbound,HANLON CREEK BOULEVARD & HANLON EXPRESSWAY NORTH,43.485968,-80.215329,,,,,,0
+6120,6120,195 Hanlon Creek northbound,HANLON CREEK BOULEVARD & HANLON EXPRESSWAY NORTH,43.490359,-80.217745,,,,,,0
+6121,6121,245 Hanlon Creek northbound,HANLON CREEK BOULEVARD & HANLON EXPRESSWAY NORTH,43.49175,-80.218853,,,,,,0
+6122,6122,285 Hanlon Creek northbound,HANLON CREEK BOULEVARD & HANLON EXPRESSWAY NORTH,43.493514,-80.220282,,,,,,0
+6123,6123,Hanlon Creek at Bett westbound,HANLON CREEK BOULEVARD & BETT COURT,43.494703,-80.223642,,,,,,0
+6124,6124,535 Hanlon Creek westbound,HANLON CREEK BOULEVARD & BETT COURT,43.49329,-80.229772,,,,,,0
+6126,6126,Downey at Teal northbound,HANLON CREEK BOULEVARD & DOWNEY ROAD,43.496737,-80.233609,0,,,,,0
+6131,6131,290 Hanlon Creek southbound,HANLON CREEK BOULEVARD & BETT COURT,43.493346,-80.220374,,,,,,0
+6134,6134,Laird at Cooper eastbound,LAIRD ROAD,43.485571,-80.214366,,,,,,0
+6135,6135,Laird at Southgate eastbound,LAIRD ROAD & HANLON EXPRESSWAY NORTH,43.493116,-80.209107,,,,,,0
+6136,6136,Laird at Clair eastbound,LAIRD ROAD & HANLON EXPRESSWAY NORTH,43.492912,-80.200878,,,,,,0
+6155,6155,190 Hanlon Creek southbound,HANLON CREEK BOULEVARD,43.490258,-80.21788,,,,,,0
+6161,6161,Grange at Bradson eastbound,GRANGE ROAD & BRADSON DRIVE,43.562132,-80.223996,,,,,,0
+6162,6162,Grange at Kemp westbound,GRANGE ROAD & BRADSON DRIVE,43.561857,-80.224653,0,,,,,0
+6169,6169,Paisley at Ryde eastbound,PAISLEY ROAD & CANDLEWOOD DRIVE,43.528278,-80.281075,,,,,,0
+6183,6183,230 Hanlon Creek southbound,HANLON CREEK BOULEVARD,43.491919,-80.219211,,,,,,0
+6185,6185,Clairfields at Gosling eastbound,CLAIRFIELDS DRIVE WEST & ACKER STREET,43.503409,-80.196273,,,,,,0
+6188,6188,Clair at Gosling eastbound,GOSLING GARDENS & CLAIR ROAD WEST,43.498585,-80.191144,0,,,,,0
+6189,6189,Poppy at 254 Gosling eastbound,POPPY GARDENS WEST & CLAIR ROAD WEST,43.49813,-80.188616,0,,,,,0
+6191,6191,Speedvale at Dawson westbound,SPEEDVALE AVENUE WEST & DAWSON ROAD,43.549248,-80.28098,0,,,,,0
+6192,6192,249 Speedvale westbound,SPEEDVALE AVENUE WEST & DAWSON ROAD,43.546173,-80.285191,0,,,,,0
+6193,6193,560 Hanlon Creek eastbound,DOWNEY ROAD & HANLON CREEK BOULEVARD,43.493028,-80.230501,,,,,,0
+6194,6194,Downey at Mollison southbound,DOWNEY ROAD,43.501975,-80.239108,,,,,,0
+6197,6197,Downey at Quail Creek northbound,DOWNEY ROAD & PHEASANT RUN DRIVE,43.498704,-80.23522,,,,,,0
+6198,6198,Woodland Glen at Bridlewood westbound,WOODLAND GLEN DRIVE & PHEASANT RUN DRIVE,43.507279,-80.240669,,,,,,0
+6199,6199,Woodland Glen at Woodland Glen Park northbound,WOODLAND GLEN DRIVE & WAGONERS TRAIL,43.508089,-80.244936,,,,,,0
+6200,6200,Woodland Glen at Wagoners northbound,WOODLAND GLEN DRIVE & STONE ROAD WEST,43.509336,-80.246628,,,,,,0
+6201,6201,Scottsdale at Janefield northbound,SCOTTSDALE DRIVE & STONE ROAD WEST,43.516119,-80.240039,,,,,,0
+6202,6202,Scottsdale at Janefield southbound,SCOTTSDALE DRIVE,43.516199,-80.240428,,,,,,0
+6203,6203,Woodland Glen at Woodland Glen Park southbound,WOODLAND GLEN DRIVE & WAGONERS TRAIL,43.508105,-80.245162,,,,,,0
+6204,6204,Woodland Glen at Bridlewood eastbound,WOODLAND GLEN DRIVE & WAGONERS TRAIL,43.507213,-80.24055,,,,,,0
+6205,6205,Woodland Glen at Trillium southbound,WOODLAND GLEN DRIVE & WAGONERS TRAIL,43.505906,-80.237308,,,,,,0
+6206,6206,Downey at Niska southbound,DOWNEY ROAD & WAGONERS TRAIL,43.504163,-80.239079,,,,,,0
+6207,6207,Downey at Ptarmigan southbound,DOWNEY ROAD & PHEASANT RUN DRIVE,43.499676,-80.237159,,,,,,0
+6208,6208,Downey at Teal southbound,DOWNEY ROAD & PHEASANT RUN DRIVE,43.497026,-80.233942,,,,,,0
+6210,6210,Hanlon Creek at Golds eastbound,HANLON CREEK BOULEVARD & GOLDS COURT,43.494436,-80.223983,,,,,,0
+6211,6211,Cooper at Quarterman eastbound,COOPER DRIVE,43.485877,-80.211904,,,,,,0
+6212,6212,56 Quarterman southbound,QUARTERMAN ROAD,43.484105,-80.21102,,,,,,0
+6213,6213,Quarterman at Laird westbound,QUARTERMAN ROAD,43.482661,-80.212353,,,,,,0
+6214,6214,Wellington at Wyndham eastbound,WELLINGTON STREET EAST & WYNDHAM STREET SOUTH,43.544052,-80.242791,0,,,,,0
+6217,6217,Victoria at Owens southbound,VICTORIA ROAD SOUTH,43.536539,-80.202755,0,,,,,0
+6218,6218,Woolwich at Speedvale southbound,,43.558558,-80.268659,0,,,,,0
