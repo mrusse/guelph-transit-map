@@ -683,6 +683,11 @@ route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,
 2523,1,381851,5 Goodwin,,0,15986,7909,0,0
 2523,1,381850,5 Goodwin,,0,15986,7909,0,0
 2523,1,381895,5 Goodwin to Frederick at Waterford,,0,15986,7906,0,0
+2524,1,387901,Scottsdale Loop,,0,16318,8028,0,0
+2525,1,387977,Kortright Loop,,0,16511,8029,0,0
+2526,1,388034,Colonial Loop,,0,16327,8031,0,0
+2527,1,388121,Edinburgh Loop,,0,16331,8032,0,0
+2528,1,59U,Gordon Express,,0,0,8033,0,0
 2529,1,382403,6 Ironwood  to University Centre,,0,16012,7920,0,0
 2529,1,382402,6 Ironwood,,0,16013,7921,0,0
 2529,1,382401,6 Ironwood,,0,16012,7921,0,0

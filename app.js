@@ -153,9 +153,17 @@ app.get('/route-data', function (req, res)
     routes.forEach(route =>
     {
         let routeStopIds = new Set();
-        trips
-            .filter(trip => trip.route_id === route.route_id)
-            .forEach(trip => tripIdStopIds[trip.trip_id].stopIds.forEach(stopId => routeStopIds.add(stopId)));
+
+        try {
+            trips
+                .filter(trip => trip.route_id === route.route_id)
+                .forEach(trip => tripIdStopIds[trip.trip_id].stopIds.forEach(stopId => routeStopIds.add(stopId)));
+            trips
+                .filter(trip => trip.route_id === route.route_id)
+                .forEach(trip => tripIdStopIds[trip.trip_id].stopIds.forEach(stopId => routeStopIds.add(stopId)));
+        } catch (error) {
+            console.error("Currently looking at: " + route.route_short_name + ". No stopID data for this route.")
+        }
         
         let routeStops = [];
         routeStopIds.forEach(stopId =>

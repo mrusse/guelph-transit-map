@@ -15,6 +15,11 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 2521,2000,3,Westmount,,3,,91469B,000000
 2522,2000,4,York,,3,,1988B7,000000
 2523,2000,5,Goodwin,,3,,921B1E,000000
+2524,2000,50U,Scottsdale Loop,,3,,FF00FF,000000
+2525,2000,52U,Kortright Loop,,3,,008290,000000
+2526,2000,56U,Colonial Loop,,3,,ED1C24,000000
+2527,2000,58U,Edinburgh Loop,,3,,91469B,000000
+2528,2000,59U,Gordon Express,,3,,0000FF,000000
 2529,2000,6,Ironwood,,3,,ED1C24,000000
 2530,2000,7,Niska,,3,,682C91,000000
 2531,2000,8,Stone Road Mall,,3,,0082B1,000000
