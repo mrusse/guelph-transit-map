@@ -4,15 +4,15 @@
   "description": "Live view of Guelph Transit bus locations",
   "main": "app.js",
   "scripts": {
-    "start":"start http://localhost:8081 & node app.js",
+    "start": "start http://localhost:8081 & node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ben Fortin",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^5.5.5",
-    "express": "^4.19.2",
-    "protobufjs": "^7.3.0",
+    "csv-parse": "^5.6.0",
+    "express": "^4.22.1",
+    "protobufjs": "^7.5.4",
     "unzipper": "^0.11.6"
   }
 }
