@@ -98,6 +98,30 @@ async function InitializeMap()
     toggleAlertsButton.addEventListener('click', ToggleAlerts);
     siteControlsDiv.appendChild(toggleAlertsButton);
 
+    let aboutButton = document.createElement('button');
+    aboutButton.id = 'aboutButton';
+    aboutButton.textContent = 'About';
+    aboutButton.classList.add(CSS_CLASS_TOGGLE_BUTTON);
+    aboutButton.addEventListener('click', function() { document.getElementById('aboutDialog').showModal(); });
+    siteControlsDiv.appendChild(aboutButton);
+
+    // About dialog
+    let aboutDialog = document.createElement('dialog');
+    aboutDialog.id = 'aboutDialog';
+    aboutDialog.classList.add('aboutDialog');
+    
+    aboutDialog.innerHTML = `
+        <h3 class="aboutDialogTitle">About</h3>
+        <p class="aboutDialogBody">Guelph Transit Map is an open source hobby project developed primarily by Ben Fortin and Michael. We can be reached at <a href="mailto:support@guelph-transit-map.ca">support@guelph-transit-map.ca</a></p>
+        <p class="aboutDialogBody">We aren't associated in any official capacity with the City of Guelph. The site was developed using data obtained through <a href="https://explore.guelph.ca/pages/transit-gtfs-data">Guelph's Open Data Portal</a>.</p>
+        <p class="aboutDialogBody">Check out the <a href="https://github.com/BenFort/guelph-transit-map">GitHub repository</a></p>
+        <p class="aboutDialogBody"><a href="https://ko-fi.com/mrusse">Donate to support the project</a></p>
+        <div class="aboutDialogFooter">
+            <button id="aboutDialogClose" class="toggleButton">Close</button>
+        </div>`;
+    document.body.appendChild(aboutDialog);
+    document.getElementById('aboutDialogClose').addEventListener('click', function() { document.getElementById('aboutDialog').close(); });
+
     map.controls[google.maps.ControlPosition.TOP_LEFT].push(siteControlsDiv);
 
     let currentLocationControlDiv = document.createElement('div');
