@@ -131,9 +131,9 @@ p
     border: none;
     border-radius: 8px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
-    padding: 24px;
-    min-width: 300px;
-    max-width: 480px;
+    padding: 48px;
+    min-width: 640px;
+    max-width: 900px;
 }
 
 .aboutDialog::backdrop
@@ -145,13 +145,13 @@ p
 {
     margin-top: 0;
     font-family: Roboto, Arial, sans-serif;
-    font-size: 20px;
+    font-size: 36px;
 }
 
 .aboutDialogBody
 {
     white-space: normal;
-    font-size: 16px;
+    font-size: 26px;
     font-family: Roboto, Arial, sans-serif;
 }
 
